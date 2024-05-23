@@ -2,6 +2,9 @@
 
 This C# project provides implementations of two search algorithms, Binary Search and Linear Search, along with benchmarking to compare their performance.
 
++ Unit Testing with NUnit
++ Search Algorithms (C#)
+
 ## Table of Contents
 
 - [Binary Search](#binary-search)
